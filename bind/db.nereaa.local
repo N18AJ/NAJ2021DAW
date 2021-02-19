@@ -1,0 +1,27 @@
+;
+; BIND data file for naj.local
+;
+$TTL	604800
+@	IN	SOA	najldap.nereaa.local. root.localhost. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	najldap.nereaa.local.
+;Registros Host
+@	IN	A	192.168.3.212
+najused IN	A	192.168.3.212
+najldap IN	A	192.168.3.112
+
+;Registros Alias
+daw201	IN	CNAME	najused.nereaa.local.
+daw202	IN	CNAME	najused.nereaa.local.
+daw212	IN	CNAME	najused.nereaa.local.
+daw220	IN	CNAME	najused.nereaa.local.	
+
+www.daw201.nereaa.local.	IN	CNAME	najused.nereaa.local.
+www.daw202.nereaa.local.	IN	CNAME	najused.nereaa.local.
+www.daw212.nereaa.local.	IN	CNAME	najused.nereaa.local.
+www.daw220.nereaa.local.	IN	CNAME	najused.nereaa.local.
