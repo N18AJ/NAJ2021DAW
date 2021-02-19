@@ -13,13 +13,13 @@
  | - | Tarea 1. Tutorial XAMPP |
  | - | Tarea 2. Cuestiones / Preguntas |
  | Tema 2 | - |
- | - | Tarea1. Xdebug:documentación y uso |
+ | - | Tarea 1. Xdebug:documentación y uso |
  | - | Tarea 2. Manual LAMP |
  | - | Tarea 3. Desplegar aplicaciones 1&1 |
  | - | Tarea 4. Desplegar app en hosting gratuito |
  | - | Tarea 5. Apache: Sitios Virtuales  |
  | Tema 3 | - |
- | - | Tarea 1.- Enjaular usuarios |
+ | - | Tarea 1. Enjaular usuarios |
  | Tema 4 | - |
  | - | Tarea 1. Instalación y configuración DNS  |
  | Tema 5 | - |
