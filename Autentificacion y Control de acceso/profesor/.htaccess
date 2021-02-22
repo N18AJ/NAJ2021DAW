@@ -1,0 +1,5 @@
+Options Indexes FollowSymLinks
+AuthType Basic
+AuthName "Acceso restringido"
+AuthUserFile /var/www/html/profesor/.htnereaapasswd
+Require user profesor1 profesor2 profesor3
